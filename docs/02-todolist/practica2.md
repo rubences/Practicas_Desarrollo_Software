@@ -3,7 +3,7 @@
 ## 1. Objetivos
 
 En práctica 2 vamos a trabajar sobre la aplicación inicial
-[domingogallardo/mads-todolist-inicial](https://github.com/domingogallardo/mads-todolist-inicial).
+[todolist-inicial](https://github.com/rubences/todolistinicial).
 
 Esta parte tendrá una duración de cuatro semanas. Deberás realizarla de
 forma individual, siguiendo las indicaciones que encontrarás en este
@@ -11,10 +11,10 @@ documento. Tendrás que desarrollar código y trabajar en GitHub
 desarrollando _issues_, _pull requests_, _releases_ y actualizando los
 tableros del proyecto (en Trello y en GitHub).
 
-Al igual que en la práctica 1 usaremos GitHub Classroom para crear un
+Al igual que en la práctica 1 usaremos GitHub para crear un
 repositorio individual con el que realizarás la práctica. El proyecto
 base será la aplicación inicial
-[domingogallardo/mads-todolist-inicial](https://github.com/domingogallardo/mads-todolist-inicial). En
+[todolist-inicial](https://github.com/rubences/todolistinicial). En
 este repositorio se ha seguido una metodología similar a la que vamos
 a utilizar en este práctica y puedes examinarlo para ver distintos
 elementos:
@@ -55,13 +55,13 @@ A continuación puedes ver dos de las pantallas de la aplicación.
 </table>
 
 Iremos desarrollando características adicionales de la aplicación a lo
-largo de las prácticas. El nombre de la aplicación es **mads-todolist**.
+largo de las prácticas. El nombre de la aplicación es **todolist**.
 
 
 ## 3. La aplicación ToDoList ##
 
 La aplicación
-[mads-todolist-inicial](https://github.com/domingogallardo/mads-todolist-inicial)
+[todolist-inicial](https://github.com/rubences/todolistinicial)
 es la versión inicial de la aplicación que se va a desarrollar
 durante toda la asignatura.
 
