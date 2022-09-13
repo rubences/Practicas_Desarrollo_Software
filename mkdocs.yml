@@ -1,0 +1,47 @@
+site_name: Prácticas MADS
+use_directory_urls: false
+
+nav:
+- 'Práctica 1':
+   - 'Enunciado de la práctica': '01-intro-spring-boot/practica1.md'
+   - 'Introducción a Spring Boot': '01-intro-spring-boot/intro-spring-boot.md'
+   - 'Resumen de comandos Git': '01-intro-spring-boot/comandos-git.md'
+- 'Práctica 2': '02-todolist/practica2.md'
+# - 'Práctica 3': '03-pruebas-tdd/integration-tdd.md'
+# - 'Práctica 4': '04-gitflow-despliegue/gitflow-despliegue.md'
+# - 'Práctica 5': '05-iteracion-scrum/iteracion-scrum.md'
+# - 'Práctica C4': '06-practica-c4/practica-c4.md'
+
+theme:
+    language: es
+    name: 'material'
+    palette:
+        primary: 'Teal'
+        accent: 'Teal'
+    font:
+        text: 'Ubuntu' 
+#       text: 'Roboto'
+        code: 'Roboto Mono' 
+    logo: 'imagenes/logo.png'
+
+# Ponemos como idioma de búsqueda el inglés
+# para conseguir que busque correctamente
+# todas las palabras en castellano, sin eliminar
+# los excesivos derivados que se definen en
+# https://github.com/MihaiValentin/lunr-languages/blob/master/lunr.es.js
+
+extra:
+    search:
+        language: 'en'
+
+markdown_extensions:
+    - admonition
+    - codehilite:
+        linenums: true
+    - footnotes
+    - meta
+    - sane_lists
+    - toc:
+       permalink: true
+       toc_depth: 3
+    - pymdownx.superfences
