@@ -144,34 +144,12 @@ esta práctica debes seguir los siguientes pasos:
    nombre y apellidos en el perfil** usando la opción _Settings >
    Profile_ y actualizando el campo _Name_.
    
-3. Una vez logeado en GitHub, pincha en el enlace con una invitación
-   que compartiremos en el foro de Moodle. Deberás aceptar las
-   peticiones de GitHub Classroom y podrás aceptar la práctica _Spring
-   Boot Demo App_. 
-
-    <img src="imagenes/aceptar-classroom.png" width="500px"></img>
-   
-    Se creará automáticamente el repositorio `springboot-demo-app-<usuario>` en la
-    organización [mads-ua-22-23](https://github.com/mads-ua-22-23/repositories). Es un
-    repositorio privado al que tienes acceso tú y el profesor. Contiene
+3. Una vez logeado en GitHub, pincha en el enlace. Contiene
     el código inicial del proyecto demostración de Spring Boot (es una
     copia del repositorio
-    [domingogallardo/spring-boot-demoapp](https://github.com/domingogallardo/spring-boot-demoapp)).
+    [/spring-boot-demoapp](https://github.com/rubences/springboot_demoapp).
 
-    <img src="imagenes/aplicacion-inicial-spring-boot.png" width="700px"></img>
-    
-    Es importante que tengas en cuenta que el repositorio recién
-    creado no reside en tu cuenta, sino en la organización
-    `mads-ua-22-23`. Puedes acceder a él desde el _dashboard_ de GitHub que
-    aparece cuando te logeas o pulsando en el icono de GitHub:
-   
-    <img src="imagenes/dashboard-github.png" width="700px"/>
-
-4. El profesor te invitará a formar parte de la organización `mads-ua-22-23`
-   y recibirás un mensaje de correo electrónico en el que deberás
-   aceptar esta invitación. También se puede aceptar la invitación
-   accediendo a <https://github.com/mads-ua-22-23>.
-   
+  
 
 ## 3. Aplicación Demo de Spring Boot ##
 
